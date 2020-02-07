@@ -1,2 +1,2 @@
 <<<<<<< HEAD
-Changes in remote reppository
+Changes in remote repository
