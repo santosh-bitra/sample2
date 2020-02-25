@@ -1,0 +1,3 @@
+Hello Virtual World
+
+Jenkins Docker image has been successfully downloaded. Continue from here.
